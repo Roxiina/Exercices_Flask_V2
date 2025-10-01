@@ -15,11 +15,11 @@ Il est divisé en deux parties :
 Pandas_V2/
 │
 ├─ data/
-│   ├─ customers.csv
-│   ├─ lyon_clients.csv          # généré par les exercices
-│   └─ panier_moyen_par_ville.csv # généré par les exercices
+│ ├─ customers.csv
+│ ├─ lyon_clients.csv # généré par les exercices
+│ └─ panier_moyen_par_ville.csv # généré par les exercices
 │
-├─ notebook.ipynb               # Notebook contenant les exercices
+├─ notebook.ipynb # Notebook contenant les exercices
 ├─ README.md
 └─ .gitignore
 
