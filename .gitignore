@@ -1,0 +1,31 @@
+# Environnements virtuels
+.venv/
+env/
+venv/
+
+# Fichiers Python compilés
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Fichiers de données générés
+data/lyon_clients.csv
+data/panier_moyen_par_ville.csv
+
+# Système d'exploitation
+.DS_Store
+Thumbs.db
+
+# Logs et fichiers temporaires
+*.log
+*.tmp
+
+# IDEs et éditeurs
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace

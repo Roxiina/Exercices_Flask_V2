@@ -17,7 +17,9 @@ Pandas_V2/
 │
 ├─ data/
 │   ├─ customers.csv
-│   ├─ lyon_clients.csv            # généré par les exercices
+│   ├─ lyon_clients.csv   # généré par les exercices 
+│   ├─ orders.csv
+│   ├─ marketing.db      
 │   └─ panier_moyen_par_ville.csv # généré par les exercices
 │
 ├─ notebook.ipynb                 # Notebook contenant les exercices
