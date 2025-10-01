@@ -1,0 +1,79 @@
+# Projet Pandas_V2 – Exercices Jour 5
+
+## Description
+
+Ce projet contient les exercices du **Jour 5** sur l’utilisation de **Pandas** et **SQLite3**.  
+Il est divisé en deux parties :
+
+- **Partie A — Débutants** : Manipulation d’un fichier CSV `customers.csv`  
+- **Partie B — Challenge** : Analyse des commandes depuis une base SQLite `marketing.db`
+
+---
+
+## Structure du projet
+
+Pandas_V2/
+│
+├─ data/
+│   ├─ customers.csv
+│   ├─ lyon_clients.csv          # généré par les exercices
+│   └─ panier_moyen_par_ville.csv # généré par les exercices
+│
+├─ notebook.ipynb               # Notebook contenant les exercices
+├─ README.md
+└─ .gitignore
+
+---
+
+## Installation
+
+1. Cloner le dépôt :
+
+```bash
+git clone https://github.com/TON_UTILISATEUR/NOM_DU_DEPOT.git
+cd Pandas_V2
+Créer un environnement virtuel :
+
+bash
+Copier le code
+python -m venv .venv
+.\.venv\Scripts\activate  # Windows
+# source .venv/bin/activate  # Mac/Linux
+Installer les dépendances :
+
+bash
+Copier le code
+python -m pip install pandas
+python -m pip install ipykernel
+Utilisation
+Ouvrir le notebook notebook.ipynb dans Jupyter :
+
+bash
+Copier le code
+jupyter notebook
+Exécuter les cellules pour :
+
+Charger et analyser le fichier customers.csv
+
+Lire la base marketing.db et analyser les commandes
+
+Calculer le total dépensé par client et le panier moyen par ville
+
+Exporter les rapports CSV dans le dossier data/
+
+Commandes Git utiles
+bash
+Copier le code
+git status
+git add .
+git commit -m "Ajout exercices Jour 5"
+git push -u origin main
+Notes
+Assurez-vous que le fichier customers.csv est bien dans le dossier data/.
+
+La connexion SQLite est fermée automatiquement après les opérations pour éviter les conflits.
+
+Le fichier .gitignore contient les fichiers temporaires des notebooks et caches Python.
+
+Auteur
+Roxina Fmnd
