@@ -1,4 +1,4 @@
-# Projet Pandas_V2 – Exercices Jour 5
+# Projet Pandas_V2 – Exercices
 
 ## Description
 
