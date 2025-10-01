@@ -36,17 +36,18 @@ git clone https://github.com/Roxiina/Exercices_Flask_V2.git
 cd Pandas_V2
 
 Créer un environnement virtuel :
-bash
+```bash
 python -m venv .venv
 .\.venv\Scripts\activate  # Windows
-
+```
 ---
 
 ## Installer les dépendances :
 
-bash
+```bash
 python -m pip install pandas
 python -m pip install ipykernel
+```
 
 ## Utilisation
 Ouvrir le notebook notebook.ipynb dans Jupyter 
@@ -59,12 +60,12 @@ Ouvrir le notebook notebook.ipynb dans Jupyter
 
 ## Commandes Git utiles :
 
-bash
+```bash
 git status
 git add .
 git commit -m "Ajout exercices Jour 5"
 git push -u origin main
-
+```
 
 ## Notes
 - Assurez-vous que le fichier customers.csv est bien dans le dossier data/.
