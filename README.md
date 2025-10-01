@@ -37,7 +37,6 @@ Créer un environnement virtuel :
 bash
 python -m venv .venv
 .\.venv\Scripts\activate  # Windows
-# source .venv/bin/activate  # Mac/Linux
 
 ---
 
@@ -48,7 +47,7 @@ python -m pip install pandas
 python -m pip install ipykernel
 
 ## Utilisation
-Ouvrir le notebook notebook.ipynb dans Jupyter :
+Ouvrir le notebook notebook.ipynb dans Jupyter 
 
 ## Exécuter les cellules pour :
 - Charger et analyser le fichier customers.csv
@@ -69,6 +68,3 @@ git push -u origin main
 - Assurez-vous que le fichier customers.csv est bien dans le dossier data/.
 - La connexion SQLite est fermée automatiquement après les opérations pour éviter les conflits.
 - Le fichier .gitignore contient les fichiers temporaires des notebooks et caches Python.
-
-Auteur
-Roxina Fmnd
