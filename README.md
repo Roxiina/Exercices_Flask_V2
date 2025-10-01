@@ -31,6 +31,7 @@ Pandas_V2/
 
 bash
 git clone https://github.com/Roxiina/Exercices_Flask_V2.git
+
 cd Pandas_V2
 
 Créer un environnement virtuel :
