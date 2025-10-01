@@ -29,15 +29,17 @@ Pandas_V2/
 
 1. Cloner le dépôt :
 
-```bash
+bash
 git clone https://github.com/Roxiina/Exercices_Flask_V2.git
 cd Pandas_V2
-Créer un environnement virtuel :
 
+Créer un environnement virtuel :
 bash
 python -m venv .venv
 .\.venv\Scripts\activate  # Windows
 # source .venv/bin/activate  # Mac/Linux
+
+---
 
 ## Installer les dépendances :
 
