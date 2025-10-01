@@ -23,7 +23,7 @@ Pandas_V2/
 ├─ notebook.ipynb                 # Notebook contenant les exercices
 ├─ README.md
 └─ .gitignore
-
+```
 ---
 
 ## Installation
