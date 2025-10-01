@@ -63,7 +63,7 @@ Ouvrir le notebook notebook.ipynb dans Jupyter
 ```bash
 git status
 git add .
-git commit -m "Ajout exercices Jour 5"
+git commit -m "Ajout exercices "
 git push -u origin main
 ```
 
